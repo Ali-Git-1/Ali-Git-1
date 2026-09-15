@@ -89,3 +89,25 @@ https://github.com/Ali-Git-1?tab=repositories
 - 🐘 Exploring **PHP** and backend development
 - 🌐 Working with **WordPress**
 - 🚀 Improving my Git & GitHub workflow
+
+
+## 📬 Contact
+
+I'm always open to connecting, discussing ideas, and collaborating on interesting projects.
+
+<p align="center">
+  <a href="https://github.com/Ali-Git-1">
+    <img src="https://img.shields.io/badge/GitHub-Ali--Git--1-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  💻 Code · 🎨 Design · 🚀 Build · 📚 Learn
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
