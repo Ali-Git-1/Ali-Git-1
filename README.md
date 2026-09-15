@@ -53,3 +53,26 @@ responsive, and user-friendly web experiences.
 🔥 Current Focus: Vue.js & Modern Frontend Development
 
 💡 Learning by building, experimenting, and shipping projects
+
+
+
+## 🚀 Featured Projects
+
+### 🛍️ Monox — Men's Clothing E-Commerce
+
+A modern and responsive men's clothing e-commerce website built with Vue.js.
+
+**Tech Stack:**
+`Vue.js` · `Vue Router` · `Pinia` · `Bootstrap` · `Axios` · `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/Ali-Git-1/Monox
+
+---
+
+### 🌐 More Projects
+
+I'm continuously building new projects and improving my frontend development skills.
+
+➡️ Check out all my repositories:  
+https://github.com/Ali-Git-1?tab=repositories
