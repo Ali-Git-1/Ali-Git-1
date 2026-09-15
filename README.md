@@ -1,5 +1,6 @@
 
-![IMG_20260915_200614_492](https://github.com/user-attachments/assets/3ccc7631-13b0-4350-a995-2f58d8047b60)
+<img width="300" height="120" alt="hero" src="https://github.com/user-attachments/assets/f7f72a08-64e8-4402-a293-938fdf69cbee" />
+
 
 ## Hi there 👋
 
