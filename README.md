@@ -76,3 +76,16 @@ I'm continuously building new projects and improving my frontend development ski
 
 ➡️ Check out all my repositories:  
 https://github.com/Ali-Git-1?tab=repositories
+
+
+
+## 🔥 Current Focus
+
+- ⚡ Building modern applications with **Vue.js**
+- 🧠 Improving my **JavaScript** skills
+- 🎨 Creating clean and responsive **UI/UX**
+- 🛒 Developing real-world e-commerce projects
+- 🔌 Working with **REST APIs & Axios**
+- 🐘 Exploring **PHP** and backend development
+- 🌐 Working with **WordPress**
+- 🚀 Improving my Git & GitHub workflow
