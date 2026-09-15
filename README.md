@@ -1,5 +1,5 @@
+<img width="3840" height="1533" alt="hero (2)" src="https://github.com/user-attachments/assets/97ae4908-51a7-477d-981f-16ff899c1fbd" />
 
-<img width="300" height="120" alt="hero" src="https://github.com/user-attachments/assets/f7f72a08-64e8-4402-a293-938fdf69cbee" />
 
 
 ## Hi there 👋
