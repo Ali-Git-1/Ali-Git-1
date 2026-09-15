@@ -41,3 +41,15 @@ responsive, and user-friendly web experiences.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+## 📊 GitHub Activity
+
+🚀 Building and improving real-world projects
+
+📦 Public Projects: Check out my repositories below
+
+🔥 Current Focus: Vue.js & Modern Frontend Development
+
+💡 Learning by building, experimenting, and shipping projects
