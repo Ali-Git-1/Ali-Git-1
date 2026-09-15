@@ -1,3 +1,6 @@
+
+![IMG_20260915_200614_492](https://github.com/user-attachments/assets/3ccc7631-13b0-4350-a995-2f58d8047b60)
+
 ## Hi there 👋
 
 <!--
